@@ -1,0 +1,69 @@
+body {
+    font-family: "Roboto";
+}
+
+footer {
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+
+h1 {
+    margin: 100px 50px 10px 350px;
+    color: white;
+}
+
+header {
+    background-color: #2F303A;
+}
+
+ul {
+    background-color: white;
+    display: flex;
+}
+
+button {
+    margin: 10px 300px 100px 550px;
+    color: white;
+    background-color: blue;
+    width: 152px;
+    height: 30px;
+}
+
+.title {
+    background-color: #F5F4FA;
+}
+
+a {
+    color: black;
+}
+
+
+li {
+    margin-right: 10px;
+    list-style: none;
+}
+
+.item {
+    margin-right: 50px;
+}
+
+.list {
+    display: flex;
+}
+
+.list-item {
+    margin-right: 100px;
+    width: 250px;
+}
+
+h2 {
+    margin: 40px 550px;
+}
+
+.title3 {
+    color: blue;
+}
+
+.title2 {
+    color: black;
+}
